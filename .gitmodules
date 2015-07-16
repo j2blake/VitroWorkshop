@@ -1,0 +1,3 @@
+[submodule "Vitro"]
+	path = Vitro
+	url = git@github.com:j2blake/Vitro.git
